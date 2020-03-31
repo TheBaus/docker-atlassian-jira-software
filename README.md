@@ -1,4 +1,4 @@
-[![CircleCI Build Status](https://img.shields.io/circleci/project/TheBause/docker-atlassian-jira-software/master.svg?label=CircleCI)](https://circleci.com/gh/TheBause/docker-atlassian-jira-software)[![Stars on Docker Hub](https://img.shields.io/docker/stars/craigbow777/atlassian-jira.svg)](https://hub.docker.com/r/cptactionhank/atlassian-jira-software/) [![Pulls on Docker Hub](https://img.shields.io/docker/pulls/craigbow777/atlassian-jira.svg)](https://hub.docker.com/r/cptactionhank/atlassian-jira-software/)
+[![CircleCI Build Status](https://img.shields.io/circleci/project/TheBause/docker-atlassian-jira-software/master.svg?label=CircleCI)](https://circleci.com/gh/TheBaus/docker-atlassian-jira-software)[![Stars on Docker Hub](https://img.shields.io/docker/stars/craigbow777/atlassian-jira.svg)](https://hub.docker.com/r/cptactionhank/atlassian-jira-software/) [![Pulls on Docker Hub](https://img.shields.io/docker/pulls/craigbow777/atlassian-jira.svg)](https://hub.docker.com/r/cptactionhank/atlassian-jira-software/)
 
 > HEADS UP! The `latest` tag and versions above 7.7.1 will be switching to use Alpine versions of OpenJDK as the base image.
 
