@@ -6,10 +6,7 @@
 
 This is a containerized installation of Atlassian JIRA Software with Docker, and it's a match made in heaven for us all to enjoy. The aim of this image is to keep the installation as straight forward as possible, but with a few Docker related twists. You can get started by clicking the appropriate link below and reading the documentation.
 
-* [Atlassian JIRA Core](https://cptactionhank.github.io/docker-atlassian-jira)
 * [Atlassian JIRA Software](https://cptactionhank.github.io/docker-atlassian-jira-software)
-* [Atlassian JIRA Service Desk](https://cptactionhank.github.io/docker-atlassian-jira-service-desk)
-* [Atlassian Confluence](https://cptactionhank.github.io/docker-atlassian-confluence)
 
 If you want to help out, you can check out the contribution section further down.
 
@@ -17,7 +14,7 @@ If you want to help out, you can check out the contribution section further down
 
 To quickly get started running a JIRA Software instance, use the following command:
 ```bash
-docker run --detach --publish 8080:8080 cptactionhank/atlassian-jira-software:latest
+docker run --detach --publish 8080:8080 craigbow777/atlassian-jira:latest
 ```
 
 Then simply navigate your preferred browser to `http://[dockerhost]:8080` and finish the configuration.
